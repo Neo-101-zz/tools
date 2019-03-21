@@ -1,8 +1,7 @@
 import convertapi
 
-path_txt = r".\TEMP.txt"
-path_pdf = r".\Elawady_Wavelet-Based_Reflection_Symmetry_ICCV_2017_paper.pdf"
-
+path_txt = r'TEMP.txt'
+path_pdf = input('Input the path of pdf file:') 
 convertapi.api_secret = 'JvAUsZV9gfILDwQ7'
 result = convertapi.convert(
 	'txt', 

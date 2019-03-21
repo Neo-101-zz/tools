@@ -1,8 +1,8 @@
 from __future__ import print_function
 import time
 
-path_txt = r".\TEMP.txt"
-path_pro = r".\Elawady_Wavelet-Based_Reflection_Symmetry_ICCV_2017_paper.txt"
+path_txt = r'TEMP.txt'
+path_pro = input('Input the path of result file: ')
 
 if __name__ == '__main__':
     import sys
