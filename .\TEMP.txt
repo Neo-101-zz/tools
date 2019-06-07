@@ -1,0 +1,633 @@
+Journal of Business Research 64 (2011) 150–156
+
+Contents lists available at ScienceDirect
+
+Journal of Business Research
+
+
+
+
+
+Writing and publishing important scientiﬁc articles: A reviewer's perspective
+David J. Ortinau
+University of South Florida, College of Business, Department of Marketing, Tampa, FL 33620-5500, USA
+
+
+a r t i c l e    i  n f o  
+
+Article history:
+Received 1 January 2010
+Received in revised form 1 January 2010 Accepted 1 February 2010
+
+Keywords:
+Scientiﬁc article
+Writing and publishing insights Journal quality image
+Review process
+Important-relevant contributions
+a b s t r a c t  
+
+The article discusses various complex and interrelated quality issues mediating reviewers' expectations and standards.  
+Authors  must  meet  or  exceed  reviewers'  and  editors'  expectations  of  providing  convincing arguments and 
+support of the importance and relevancy of the research topic and questions, evidence of scientiﬁc rigorousness, and 
+meaningful and usefulness of the ﬁndings making substantial and/or incremental contributions to the scientiﬁc body of 
+marketing knowledge. Marketing scholars struggling to publish their research in high-quality marketing journals will 
+deﬁnitely beneﬁt from the insights in this article.
+© 2010 Elsevier Inc. All rights reserved.
+
+
+
+
+1. Introduction
+
+Throughout the world, university and program accreditation and scholarly  research  standards  are  rapidly  changing  
+and  marketing scholars face increasing research and publishing productivity require- ments governing hiring and  
+promotion/tenure decisions as  well  as establishing a successful professional career. Pressures are growing for  
+marketing  scholars,  particularly  young  assistant  professors,  to provide  evidence  that  their  scholarly  
+research  activities  include conducting high-quality theoretical and empirical research projects which are innovative 
+and cutting edge (Armstrong, 2003; Ladik and Stewart, 2008; Rust, 2008; Weitz, 1992), leading to the publication of 
+important scientiﬁc articles (Armstrong and Pagell, 2003; Woodside, 2009).
+Scientiﬁc articles provide meaningful contributions to the body of marketing knowledge on topics interesting and 
+relevant to a variety of constituencies  and  readership  groups  such  as  other  academic researchers,  research  
+practitioners,  managers,  public  policymakers, marketing educators, society at large (Brown and Dant, 2008; Levy and 
+Grewal, 2007). Marketing scholars also face increasing pressures of  publishing  scientiﬁc  contributions  in  the  
+marketing  discipline's prestigious  journals  with  high-quality  journal  impact  metrics.  This emphasis on where 
+marketing scholars should disseminate important scientiﬁc  contributions  is  not  new  among  faculty  operating  
+within research-dominant work environments. Yet, the growing pervasive- ness has renewed long-standing concerns, 
+issues, and debates of the sound  logic  and  practicality  of  such  a  limiting  dissemination  focus (Armstrong, 
+1982a; Kupfersmind and Wonderly, 1994; Pfeffer, 2007),
+
+
+E-mail address: dortinau@usf.edu.
+especially  from  those  marketing  journals  that,  in  some  minds,  fall short  on  the  prestige  image  criterion. 
+ Confounding  this  direct relationship between important scientiﬁc contributions and prestige marketing  journals  is  
+empirical  evidence  suggesting  only  a  small percentage (about 3%) of the articles appearing in prestige journals 
+contain  meaningful  important  scientiﬁc  contributions  concerning new innovative, important, and/or useful insights 
+that enhance the body of marketing knowledge (Armstrong, 1997, 2004; Mort, McColl- Kennedy, Kiel, and Soutar, 2004).
+The current article is not about rehashing the issues and debates concerning the perceptions of ranking marketing 
+journals, judging a journal's quality image or impact of marketing journals. Instead, the article  discusses  the  
+issues,  concerns,  and  elements  relating  to undertaking important and relevant research endeavors and writing 
+important  scientiﬁc  articles  that  offer  meaningful  and  useful  con- tributions to the ever-growing marketing 
+literature.
+Presenting insights (or tips) on writing journal articles is not a new endeavor.  The  existing  literature  provides  
+numerous  meaningful  and useful insights on surviving journal review and publishing processes (e.g., Armstrong, 1982a; 
+Levy and Grewal, 2007; Ortinau, 2010; Stewart, 2002). Publishing insights appear as elegantly written editorials by 
+current and past editors of the discipline's journals (e.g., Brown and Dant, 2008; Ladik and Stewart, 2008; Stewart and 
+Zinkhan, 2006; Weitz, 1992; Wittink, 2004). Articles invited by various journals (e.g., Babin, Hair, and Boles, 2008; 
+Ortinau, 2010; Shugan, 2003; Summers, 2001), specialty books on the topic (e.g., Arnould, 2003; Kupfersmind and 
+Wonderly, 1994), and through  Meet  the  Journal  Editors  sessions  at  national/international marketing education 
+conferences.
+With the existing insights on writing and publishing marketing journal  articles  and  the  discipline's  rapid  
+expansion  of  publishing opportunities in new U.S. and international marketing journals, one
+
+0148-2963/$ – see front matter © 2010 Elsevier Inc. All rights reserved. doi:10.1016/j.jbusres.2010.02.002
+
+D.J. Ortinau / Journal of Business Research 64 (2011) 150–156                                                           
+                                                151
+
+
+intuitive  prediction  is  marketing  scholars'  publishing  success  of important  scientiﬁc  articles  is  rapidly  
+becoming  a  more  common occurrence. Yet, this trend prediction is perplexing and contradictive because  the  
+prestigious  and  top  25  ranked  marketing-oriented journals consistently report annual acceptance rates ranging 
+between
+7  and  18%.  The  low  acceptance  rates  suggest  a  disconnect  gap between  conducting  important,  relevant  
+quality  research,  and ultimately publishing that research in quality journals.
+This  article  investigates  and  discusses  issues  that  underlie  the apparent disconnect gap between researching 
+and publishing impor- tant scientiﬁc contributions and provides useful insights to writing scientiﬁc articles. Three 
+main objectives guide the focus of the article. The ﬁrst objective is to enhance awareness and understanding that 
+publication  success  involves  a  number  of  subjective  assessment processes  relating  to  the  overall  evaluation 
+ of  how  well  an  article conveys a high-quality journal image. Another objective is to provide clear and useful 
+insights of the key elements editorial reviewers (or peer  reviewers)  look  for  in  judging  evidence  of  high  
+quality, importance, relevancy, and contribution value of manuscript submis- sions  for  publication  in  prestigious  
+and  high-quality  marketing- oriented journals. The last objective is to validate previous research and  publishing  
+insights  of  past  and  current  journal  editors  and academic  scholars.  The  article's  discussions  and  insights 
+ integrate several signiﬁcant themes. One theme is the relevancy and impor- tance  of  the  topic  under  investigation 
+ as  well  as  the  research questions  that  drive  important  scientiﬁc  research  endeavors  (pro- jects). Another 
+theme is the use of double blind review processes for judging the relevancy and importance of the research ﬁndings and 
+contributions to the existing body of scientiﬁc marketing knowledge. The  ﬁnal  theme  relates  to  the  importance  of 
+ using  solid  theory  or theoretical rationale as the driver of scientiﬁc research endeavors (see support  for  these  
+type  of  themes  are  found  in  Armstrong,  1982b; Brown and Dant, 2008; Ladik and Stewart, 2008; Levy and Grewal, 
+2007; Stewart and Zinkhan, 2006; Shugan, 2003; Sutton and Staw, 1995). Additionally, this article uses several unique 
+perspectives in discussing the relevant issues within each theme. First, the comments and  insights  are  from  an  
+editorial  reviewer's  (or  peer  reviewer's) perspective rather than current or past journal editors. Second, this 
+article uses a cognitive image framework that incorporates many of the interconnected theoretical underpinnings of 
+expectancy theory, expectancy–performance  theory,  and  conﬁrmation–disconﬁrmation theory. The framework suggests that 
+the overall perceived judgment of a manuscript providing solid (convincing) evidence of conveying a high  journal  
+quality  image  plays  a  critical,  yet  elusive,  role  in mediating journal editors' ﬁnal acceptance decisions.
+Organization of the remainder of the article is by categorical issues
+relevant  in  writing  important  scientiﬁc  papers  and  the  reviewing processes  of  the  top  25  marketing  
+journals.  The  discussion  ﬁrst focuses  on  what  elements  constitute  important  scientiﬁc  research endeavors  and 
+ how  particular  environmental  issues,  high-quality rigorous research practices, and different marketing journals' 
+person- alities inﬂuence the selection of research topics and endeavors.
+The second part focuses on the beneﬁts and limitations of using subjective and objective impact metrics as determinants 
+of important scientiﬁc contributions to the body of marketing knowledge. Next is a discussion on  who are  editorial  
+reviewers  (or  peer reviewers) and their responsibility in determining scientiﬁc contributions as well as developing  
+and  enhancing  the  body  of  marketing  literature.  The following section identiﬁes the critical elements of a 
+scientiﬁc journal manuscript  and  discusses  the  types  of  concerns  (or  weaknesses) having negative effect on 
+reviewers' perceptions and assessments of manuscripts'  high  journal  quality  image  along  with  insights  on 
+avoiding these issues and concerns. Finally, a list of research reference sources offers opportunities for gaining an 
+in-depth understanding of what high-quality, value-added journals expect in submitted scien- tiﬁc manuscripts.
+
+2. IThportant scientiﬁc research endeavors
+
+Prior to discussing the elements and issues of writing important scientiﬁc  articles,  authors  need  to  clearly  
+understand the  elements that constitute a scientiﬁc research endeavor. With no one agreed- upon set of criteria, some 
+researchers believe that a scientiﬁc research endeavor  is  one  that  focuses  on  creating  empirical  evidence  that 
+supports grounded marketing principles, which, in turn, creates useful and understandable knowledge about the principle 
+under investiga- tion (Armstrong and Pagell, 2003). Armstrong (2003) suggests that useful  knowledge  serves  as  
+evidence  that  contributes  to  better decisions than would have otherwise been made in a given situation. One  
+problem  issue  with  viewing  a  scientiﬁc  endeavor  simply  as  a research  investigation  that  produces  useful  
+knowledge  is  that knowledge is veriﬁable objective facts, whereas the usefulness tag is the outcome of someone's 
+subjective judgment and subjectivity is not an  element  of  a  scientiﬁc  process.  Conducting  important  scientiﬁc 
+research  endeavors  requires  the  awareness,  understanding  and implementation of the cornerstones (underpinnings) 
+of the scientiﬁc method within the methodologies use to collect and analyze empirical data. These cornerstone 
+characteristics are logic, reliability, validity, objectivity, theoretical rationale, rigorousness, comprehensible, and 
+generalizability  (Hair,  Bush,  and  Ortinau,  2009)  and  serve  as  the fundamental foundation of important 
+scientiﬁc inquiries.
+Determination of the importance of a scientiﬁc research endeavor
+relies on the importance and relevancy of the topic and the speciﬁc research  questions.  Some  researchers  believe  
+important  scientiﬁc endeavors lead to conducting empirical research that are innovative and cutting edge (Armstrong, 
+2003; Rust, 2008; Weitz, 1992). Other scholars suggest research topics must be viewed as being interesting and relevant 
+by various constituencies and readership groups (Brown and Dant, 2008; Levy and Grewal, 2007; Shugan, 2003). A problem 
+relating to all the above characteristics is that they are outcomes of subjective  evaluative  judgments.  To  overcome 
+ the  subjectivity weakness  in  estimating  the  quality  image  and  scientiﬁc  impact  of journal articles, 
+objective metrics are available such as social science citation index, usefulness index (Armstrong, 2004; Mort et al., 
+2004), Thomson Reuter's Web of Science — ISI Web of Knowledge (Dant and Brown, 2009), online Google Scholar, and 
+multiple types of journal — author  impact  metrics  (Woodside,  2009).  A  fundamental  problem with these objective 
+citation and impact metrics is they are post facto measures following an article's acceptance and provide little value 
+in the writing and publishing processes.
+
+2.1. Issues that impact selecting a scientiﬁc research topic
+
+Several  environmental  factors  inﬂuence  the  selection  of  a meaningful research topic. Scholars must remind 
+themselves that to achieve  the  goal  of  publishing  important  scientiﬁc  journal  articles requires  attention  to  
+high-quality  scientiﬁc  (rigorous)  research practices to ensure the opportunity of gathering high-quality data — a 
+necessity for writing a manuscript that reviewers and editors deem journal quality. On the other hand, low-quality 
+research practices lead to  low-quality  data  and  increase  the  likelihood  that  experienced reviewers will uncover 
+enough weaknesses to assess the manuscript submission as lacking the quality necessary for serious consideration of 
+journal publication.
+Researchers  must  come  to  grip  with  their  professional  career aspirations. A researcher's scholarly identity in 
+the minds of his/her peers  is  part  of  a  self-image  continuum  relating  to  the  scholarly reputation  one  wants 
+ to  be  known  and  recognized  for  in  the marketing  discipline  (e.g.,  national/international  reputation).  En- 
+hancement  of  scholarly  reputation  is  primarily  through  publishing success  in  prestigious  and  high-quality  
+journals  and  directly  inﬂu- ences potential topics of scientiﬁc signiﬁcance. The cultural orienta- tion of the work 
+environment affects professional career aspirations
+
+152                                                                                                D.J. Ortinau / 
+Journal of Business Research 64 (2011) 150–156
+
+
+and the types of scholarly research endeavors and topics undertaken. An  abundance  of  nonscientiﬁc  anecdotal  
+evidence  suggests  that teaching-dominant  and  balanced  teaching/research  work  environ- ments  restrict  the  
+development  of  important  scientiﬁc  research programs  compared  to  research-dominant  cultural  environments that 
+place heavy emphasis on conducting and publishing important scientiﬁc research ﬁndings in prestigious and high-quality 
+journals.
+
+2.2. Marketing journals' personalities
+
+Understanding the different “personalities” of potential targeted journals for manuscript submission is a further issue 
+in considering a research  topic.  Marketing  journals  have  unique  differences  in philosophy,  writing  style,  
+publishing  guidelines,  and  page/word limitations.  To  assume  all  marketing  journals  equally  embrace  all 
+article approaches (e.g., conceptual versus empirical; new innovative versus  extensions;  controversial  versus  
+validating  insights;  and theoretical versus application) creates an unnecessary risk factor of undertaking a research 
+endeavor with minimal appeal to a prospec- tive journal's editor, possibly resulting in a desk rejection decision. The 
+following examples illustrate the importance of understanding the personality differences among marketing journals. 
+First, a topic focusing on applying a strong theory in a service marketing setting with  strong  managerial  
+implications  will  not  be  a  good  ﬁt  for  the Journal of Consumer Research (JCR) but will be appealing to the 
+Journal of Service Research (JSR), Journal of the Academy of Marketing Science (JAMS), or the Journal of Business 
+Research (JBR). Likewise, a scientiﬁc research endeavor primarily focusing on method and measurement issues or a new 
+modeling technique is appropriate for the Journal of Marketing Research (JMR) or Marketing Science (MS) but less 
+attractive to journals such as Industrial Marketing Management (IMM), Journal of Retailing (JR), or Psychology and 
+Marketing (P&M).
+Scholars wanting to conduct important scientiﬁc research endea- vors  need  to  be  mindful  of  the  following  types  
+of  questions  when selecting a meaningful research topic and formulating the research questions:
+•  How  important  is  the  proposed  topic  to  the  existing  body  of marketing knowledge?
+•  What  is  the  relevancy  of  the  topic  and  research  questions  to different constituencies or readership 
+groups?
+•  What  scientiﬁc  research methodologies  and measurement proce- dures ensure capturing high-quality data for 
+addressing the main research questions?
+•  What  are  the  appropriate  target  journals  for  such  a  scientiﬁc research endeavor?
+•  What is the meaningful story line from addressing the expressed research questions?
+•  Will  the  story  be  empirical  dominant  or  theoretical–conceptual dominant in nature?
+•  What  are  the  scientiﬁc  contributions  that  the  research  endeavor makes to the existing literature?
+
+3.  The  role  of  journal  quality  iThage  in  scientiﬁc  research  and publication
+
+Some  marketing  academics  believe  a  direct  relationship  exists between  marketing  journals'  journal  quality  
+image  and  publishing important  scientiﬁc  journal  articles  (Campanario,  1996;  Dant  and Brown, 2009; Rust, 2008; 
+Soutar, 2007; Stewart 2002; Wittink, 2004). In contrast, other scholars provide empirical evidence suggesting that 
+prestigious  and  high-quality  journals'  reviewing  processes  are  less favorable  toward  publishing  scientiﬁc  
+articles  that  offer  innovative but controversial ﬁndings (Armstrong, 1997, 2003; Soper et al., 1995). The relevance 
+and importance of topics and research questions, type and magnitude of contributions, and theoretical-based research
+are three important subjective criteria used in assessing the journal quality  factor  of  the  article  in  the  
+review  process.  In  turn,  post publication objective metrics (e.g., citation indices, journal familiarity, journal 
+usage rates, acceptance rates, journal impact factor, usefulness information  index,  etc.)  serve  as  appropriate  
+indicators  of  the perceived quality of marketing journals. In this article, journal quality image represents 
+someone's expression of a journal's overall worth (or value) to the marketing discipline and serves as the critical 
+overall standard  that  mediates  the  impact  of  the  subjective  and  objective quality measures on the 
+acceptance/rejection judgments of scientiﬁc manuscripts made by editorial reviewers, editors, and ultimately the 
+journal's and discipline's readership. Unfortunately, determination of a  scientiﬁc  article's  true  importance  and  
+impact  to  the  body  of marketing knowledge  comes  about using any  number  of surrogate citation indices or impact 
+metrics in later times following the article's acceptance  for  publication.  Citation  indices,  impact  factors,  
+and/or simple reference counting methods have weaknesses ranging from inappropriate samples of journals and survey 
+participants, to restric- tions of journal inclusion in citation counts and inabilities to capture true scholarly 
+impact of journal articles. (See Dant and Brown (2009) and  Soutar  and  Murphy  (2009)  for  insightful  discussions  
+of  the limitations of using subjective and objective metrics to estimate the journal quality and importance of 
+scientiﬁc marketing knowledge.)
+
+4. Editorial reviewer role and responsibility
+
+Journal  editors  and  editorial  reviewers  are  key  players  in  the process  of  publishing  important  scientiﬁc  
+articles  in  prestige  and high-quality  journals.  Although  editors  and  reviewers  have  similar reviewing  
+expertise,  main  differences  exist  that  authors  need  to understand about these players' positions. The ﬁrst 
+difference is the contradicting objectives and responsibilities of each position. Journal editors are in the business 
+of producing a certain number of high- quality  journal  issues  each  year  and  need  acceptable  articles  to 
+achieve  that  important  objective.  In  contrast,  reviewers  view  and accept  their  main  objective  as  ensuring  
+articles  meet  the  journal's required quality level and interpret their main responsibility as one of the 
+establishing reasons for rejections (Armstrong and Pagell, 2003; Ladik and Stewart, 2008).
+The  degree  of  meaningfulness  of  the  article's  contributions  is another difference. Editors primarily look for 
+and accept articles that provide relative (incremental) contributions placing main emphasis on the interest and 
+importance of the topic (or phenomenon) under investigation. On the other hand, reviewers place stronger emphasis on 
+empirical evidence supporting the existence of absolute (substan- tive)  contributions  that  clearly  illustrate  an  
+extension  of  current scientiﬁc knowledge or creating new (and sometimes controversial) knowledge or insights on the 
+topic under investigation.
+Marketing faculty who lack journal-reviewing experience and/or who often receive rejection decisions on journal 
+manuscript submis- sions  tend  to  formulate  a  somewhat  negative  perceptual  image  of journal reviewers. In many 
+cases, authors judge journal reviewers as being unenlightened people who do not understand the manuscript's story  
+line,  resulting  in  an  unfair  assessment  of  the  manuscript's quality  and  the  importance  of  the  
+contributions  made  to  the marketing  literature  (Armstrong,  1982c,  1997,  2003).  Scholars struggling  to  
+publish  their  research  can  gain  useful  manuscript writing  insights  by  understanding  the  role  of  editorial  
+reviewers and their responsibilities in the publishing process.
+
+4.1. Editorial reviewer roles
+
+Reviewers are journal editors' lifeblood in assessing manuscripts' overall  quality  and  potential  value  to  the  
+marketing  literature. Reviewer  selection  involves  a  number  of  factors,  some  subjective and other objective in 
+nature. Review board members represent well-
+
+D.J. Ortinau / Journal of Business Research 64 (2011) 150–156                                                           
+                                                153
+
+
+established,  acknowledged  scholars  in  their  particular  sub-ﬁeld  of marketing. Reviewers have authoritative 
+knowledge and understand- ing of theory, methodology-measurement, data analysis procedures, and topical expertise. With 
+prestigious and high-quality journals, the creditability of a reviewer's school afﬁliation has some impact on the 
+selection  decision  (Ingene,  2009).  Editorial  reviewers  have  distin- guishing  research/publishing  records  of  
+accomplishment,  proven reviewing skills, and afﬁnity for various topical domains that directly ﬁt the journal's 
+mission, focus, and philosophy.
+
+4.2. Editorial reviewer responsibilities
+
+Scholarly  researchers  must  accept  the  reality  that  all  journal review  processes  are  inherently  imperfect  
+and  somewhat  bias  in nature.  Despite  the  good  intentions  and  heroic  efforts  of  journal editors and 
+reviewers to incorporate objective-oriented rating metrics in the process, article reviews consist of sets of 
+subjective evaluative judgments  on  how  well  a  manuscript  meets  or  exceeds  predeter- mined editor/reviewer 
+expectations. Another reality is the skill levels of all reviewers are not necessarily equal across all reviewing 
+criteria (see  Armstrong  (1997)  and  Pfeffer  (2007)  for  in-depth,  insightful discussions  of  empirical  evidence 
+ of  the  inherent  biases  of  journal review processes). Journal editors perceive good reliable reviewers as a  
+scarce  resource  capable  of  providing  important  and  critical evaluative  insights.  Some  scholars  criticize  
+the  editorial  reviewing processes  as  restricting  dissemination  of  useful  information  in journals (Armstrong, 
+1997; Pfeffer, 2007). Journal reviewers function as  gatekeepers  in  building  and  extending  the  published  body  
+of marketing  knowledge.  Reviewers'  evaluative  insights  signiﬁcantly inﬂuence  what  scientiﬁc  ﬁndings  and  
+information  become  valued parts of the literature. The vast majority of journal reviewers take very seriously their 
+responsibility of ensuring the importance, relevance, and quality of the contributions published in the literature. To 
+ensure a  journal's  quality  image,  reviewers  provide  constructive  criticism through their comments, concerns, and 
+questions — often pointing out  obvious  and  nonobvious  manuscript  weaknesses  and  ﬂaws. Whether the editor 
+ultimately accepts a manuscript or not, excellent reviewers  provide  authors  with  understandable  and  directional 
+insights  for  improving  the  initial  manuscript's  quality  level  and serve as positive enablers for authors having 
+a constructive journey through the review process.
+
+5. Insights to writing iThportant scientiﬁc articles
+
+The main intention of this section is not to offer a list of do's and don'ts for writing important scientiﬁc articles 
+but rather make authors aware of the issues that can severely limit a manuscript's chances of providing  scientiﬁc  
+value  and  surviving  a  journal  review  process. Since no best approach exists for providing useful insights to 
+writing a scientiﬁc journal article, organization of the ensuing comments is by generic major section headings common 
+in many journal manuscripts (i.e., Introduction, Literature review–conceptualization and hypothe- ses,  Method,  
+Results–ﬁndings,  Discussion,  Conclusions/managerial implications, and Limitations/future research opportunities).
+
+5.1. Introduction
+
+Reviewers view this section as critical in setting up the entire story line  and  position  of  the  article.  The  
+introduction  section's  content creates  journal  reviewers'  baseline  expectations  for  evaluating  the remainder 
+of the article. Reviewers look for clear communication of what  topic  (or  phenomenon)  and  research  questions  are  
+to  be investigated.  Authors  must  present  a  convincing  argument  to  the importance  of  undertaking  the  
+research  investigation,  integrating supportive  theoretical  evidence  from  the  literature  relating  to  the 
+problem (Smith, 2003). Reviewers look for clear concise expressions
+
+of  the  research  questions  (or  problems)  and  the  objective(s),  or purpose,  of  conducting  the  scientiﬁc  
+inquiry.  Building  a  solid, convincing  argument  is  what  creates  readership  interest  and relevancy/importance  
+of  the  investigation  that  reviewers  require. Another key component of the introduction section is clear expression 
+of  the  study's  potential  contributions  to  the  literature.  Reviewers expect clear and concise statements 
+representing the substantive (or absolute)  contributions  to  the  body  of  scientiﬁc  knowledge  and empirical   
+evidence   supporting   the   meaningfulness   of   each contribution.
+Some typical positioning arguments that reviewers deem weak, unfavorable, and very difﬁcult to successfully support 
+are:
+•  The researcher ﬁnds the topic personally interesting.
+•  The  construct  under  investigation  has  not  received  enough attention in the marketing literature.
+•  The literature does not cover the construct in a marketing context.
+•  Much  is  unknown  about  the  relationships  between  the  speciﬁed constructs.
+Journal reviewers evaluate these types of positioning arguments as unacceptable because they come up short in meeting 
+or exceeding reviewers' expectations of the importance and relevancy criteria for conducting scientiﬁc research 
+endeavors. The following examples are successful positioning approaches in building convincing arguments for the 
+relevancy and importance of research endeavors.
+Example 1: Gaps in the literature suggest the need to develop an alternative, or competing methodological or 
+measurement approach for investigating a particular construct, relationship, or phenomenon. This  positioning  strategy 
+ requires  authors  to  clearly  identify  and theoretically support the weaknesses (or problems) of the existing 
+methodology or measurement approach. Authors must present clear and convincing discussions explaining why the 
+weaknesses must be resolved  as  well  as  the  importance  of  correcting  the  weaknesses. When the construct of 
+interest has been previously measured using different  methods,  reviewers  look  for  a  concise  discussion  of  the 
+meaning of those differences and their implications.
+Example  2:  The  marketing  literature  portrays  the  existence  of empirical controversy regarding the true 
+relationship(s) between the constructs  under  investigation.  This  positioning  approach  requires authors to clearly 
+identify and empirically support the controversial relationship(s) and provide explanation of why the controversy needs 
+to  be  resolved,  including  a  concise  discussion  of  the  competing theoretical rationale underlying the 
+differences.
+Example 3: Empirical evidence suggests a deﬁnite need to expand a particular current theory or paradigm. Here, authors 
+must clearly identify the weaknesses of the existing theory (or paradigm) as well as speciﬁcally explain and illustrate 
+how the proposed expansion will improve  that  theory  or  paradigm.  Reviewers  evaluate  how  the expansion will add 
+value  to understanding that theory (paradigm) as well as the contributions to the body of marketing knowledge.
+
+5.2. Literature review–hypotheses
+
+Labeling  of  this  section  of  a  scientiﬁc  research  article  can  be  a number of ways depending on the overall 
+focus of the research. The function of a literature review section is to provide further detail and clarity to the 
+story line of the research endeavor or the convincing argument of the selected positioning approach. Important 
+scientiﬁc research investigations can involve the creation of conceptual frame- works or theoretical models that 
+illustrate the expected relationships between two or more constructs under investigation. Authors must provide clear 
+discussions of the literature-based insights for each of the key constructs as well as any known relationships between 
+them. A  critical  element  to  important  scientiﬁc  investigations  is  the generation  of  testable  hypotheses  
+that  accurately  identify  the directionality  of  the  relationships  between  constructs.  Researchers
+
+154                                                                                                D.J. Ortinau / 
+Journal of Business Research 64 (2011) 150–156
+
+
+will  formulate  and  test  either  dominant  hypotheses  (DH)  or competing hypotheses (CH). Armstrong, Brodie, and 
+Parsons (2001) indicate researchers use dominant hypotheses signiﬁcantly more in scientiﬁc  research  endeavors  than  
+competing  hypotheses,  for  the following types of reasons:
+•  DH  provides  researchers  with  a  structure  for  collecting  and analyzing speciﬁc data under different 
+conditions.
+•  DH  builds  cumulative  amounts  of  knowledge  through  existing theoretical rationale and/or summarized empirical 
+evidence from previous research endeavors.
+•  DH rules out acceptance of null hypothesized relationships.
+Dominant hypotheses are not without some drawbacks. DH en- courages researchers to primarily look for and emphasize 
+conﬁrming evidence, increasing the possibility of misinterpreting data results in order to conﬁrm the hypothesized 
+relationships. Prior expectations of testable  relationships  can  negatively  affect  conclusions  by  forcing 
+researchers  to  create  and  report  speculative  outcomes.  Armstrong et  al.  (2001)  conclude  that  dominant  
+hypotheses  do  not  promote researcher objectivity but rather increase the probability of creating conﬁrmation bias. 
+Generating and testing competing hypotheses lead to  researcher  objectivity,  discovery  of  true  hypothesized  
+relation- ships, and focus on providing disconﬁrming empirical evidence. (See Armstrong  et  al. (2001)  for further 
+discussions  of the beneﬁts  and limitations  of  using  dominant  and  competing  hypotheses  in  a scientiﬁc research 
+investigation.) No matter the type of hypothesis in  scientiﬁc  research  investigations,  reviewers  evaluate  how  
+well existing literature insights and theoretical rationale support identify- ing  and  justifying  each  hypothesized  
+relationship  and  under  what conditions. Authors need to remember that providing only literature review insights in 
+building justiﬁcation of hypothesized relationships is not the same as using known theoretical (or scientiﬁc) 
+rationale. Reviewers  look  for  integration  of  solid  theoretical  rationale  being able to explain how 
+relationships work and under what conditions, not just what methodological, measurement, and ﬁndings previous 
+researchers report.
+
+5.3. Method
+
+The focus of the method section is to discuss fully the speciﬁc data and  collection  procedures  use  for  
+investigating  and  validating hypothesized  relationships,  as  well  as  describing  the  tangible elements that 
+affect the data collection processes. Reviewers interpret the detailedness of the information in the method section as 
+being very important in assessing not only the quality of the data used in testing hypothesized relationships but also 
+in judging the strength of the scientiﬁc rigorousness in conducting the investigation. The end goal  of  the  research  
+endeavor  (i.e.,  construct  development  and reﬁnement  of  a  new  measurement  approach  or  prediction  of  a 
+speciﬁc  behavioral  phenomenon)  partially  determines  the  actual extent  of  scientiﬁc  rigorousness.  Complete  
+disclosures  of  the methodological components, procedures, and processes are impera- tive because reviewers use this 
+information to evaluate the execution of  the  scientiﬁc  method  and  uncover  weaknesses  that  dilute  the 
+substantive contributions and limit the value of expanding knowledge to existing literature insights.
+
+5.3.1. Type of research and respondent base
+Authors need to describe clearly and concisely the type of research approach executed to capture high-quality data for 
+testing the study's hypotheses. Reviewers look for answers to the following questions:
+•  Does the research involve just one main study, a main study with multiple stages (or phases), multiple studies, a 
+single experiment, or multiple experiments?
+•  Is the method qualitative, quantitative, or mixed?
+•  Is the investigation survey or experimental dominant?
+•  Is the data cross-sectional or longitudinal in nature?
+•  What  speciﬁc  procedures  does  the  study  implement  for  data collection?
+Another   topic   that   requires   clear   detailed   discussions   is   the speciﬁcation of the respondents in the 
+investigation. Reviewers will seek insight to these types of questions:
+•  From whom and when are the data collected?
+•  Why are the selected respondents or subjects appropriate?
+•  What type of sampling procedure is employed (i.e., probabilistic or nonprobabilistic)?
+•  How many respondents or subjects does the study sample?
+•  How many respondents or subjects actually participated?
+•  What is the ﬁnal response rate?
+•  How does the study assess nonresponse bias?
+
+5.3.2. Constructs and measurements
+Other important method subsections reviewers use to evaluate the scientiﬁc rigorousness of the investigation and the 
+quality of data are the discussions providing insights to the study's constructs and measure- ments. The focus is on 
+not only identifying and deﬁning each construct in the investigation but also clarity in discussing how each construct 
+is actually  measured,  including  the  different  reliability  and  validity assessments (i.e., discriminant, 
+convergent, and nomological) as well as overall construct validity. Reviewers look for clear, concise discus- sions  
+including  a  description  of  the  exact  type  of  scale  design  (i.e., nominal, ordinal, interval, ratio, graphic 
+rating, ordinal ranking, Likert, semantic differential, etc.), number of items in the scale, and sets of speciﬁc scale 
+point descriptors. When authors' use previously estab- lished scales, measurement discussions must provide information 
+that answers these questions: Who is the original author of the scale? What are the reported scale's reliability and 
+validity assessments? Are there any weaknesses to the existing scale? Why is a particular existing scale the right one 
+to use in the current investigation?
+
+5.3.3.  Problematic  concerns  with  adopting  and  adapting  previously published scales
+Authors' justifying the reliability and validity of the article's current
+construct measures by stating that the measures are either adopted or adapted from previously published scales in the 
+literature is a problem for  journal  reviewers.  The  problem  lies  in  the  confusion  of  what adopting and 
+adapting means from a scale development–measurement perspective.  The  following  examples  offer  points  of  clarity. 
+ When authors  use  an  existing  published  scale  in  a  new  investigation, “adopting” means the current scale 
+measure design is exactly as in its original  form  with  no  modiﬁcations  and  the  current  construct  is viewable  
+conceptually  as  originally  intended.  When  researchers selectively  use  only  a  portion  of  an  original  scale  
+design  or  make modiﬁcations to ﬁt the current investigation better, the measurement, at best, is an adaptation of the 
+original design, resulting in the creation of a  new  alternative  scale  measure.  Original  scales  that  are  not  
+fully adopted or are creatively modiﬁed (or adapted) to ﬁt a new situation have to be considered new scale measurements 
+and must go through all the  standard  procedures  of  scale  development  and  reﬁnement, including  reliability,  
+validity,  and  dimensionality  determination (Churchill, 1979; Gerbing and Anderson, 1988; Hair, Black, Babin, and 
+Anderson, 2010). Use of adopted or adapted scale measures requires providing  a  clear,  concise  discussion  of  the  
+key  development  and reﬁnement results. Omitting such discussions will prompt reviewers, especially those with 
+methodology and measurement expertise, to raise pointed concerns about the new scales. In important scientiﬁc articles, 
+a poorly  or  vaguely  written  methodology  section  will  raise  more questions and concerns than provide insights, 
+lowering the likelihood that the article will be acceptable to reviewers and more likely eliminate the manuscript from 
+receiving serious publication consideration.
+
+D.J. Ortinau / Journal of Business Research 64 (2011) 150–156                                                           
+                                                155
+
+
+5.4. Results–ﬁndings
+
+This  section  focuses  on  presenting  the  empirical  ﬁndings. Reviewers  look  for  straightforward  discussions  
+that  simply  report the acceptance and rejection decisions of the hypothesized relation- ships along with support from 
+summary tables and ﬁgures displaying the  data  and  test  results.  Authors  must  use  care  to  display  all  the 
+pertinent data structures and statistical test results and clearly labeled each summary table. Authors should not waste 
+space by repeating verbatim what tables and ﬁgures display but rather present the key results that support either the 
+acceptance or rejection of each tested hypothesis. Reviewers are not expecting detailed discussions about insights, 
+implications the results are suggesting, or explanations why the results came out as they did.
+
+5.5. Discussion
+
+The discussion section is very important in a scientiﬁc article. The focus is on precisely identifying and clearly 
+discussing the scientiﬁc information  that  the  data  and  test  results  provide,  as  well  as  the importance those 
+insights have on the topic, research questions, and understanding  (i.e.,  contributions)  to  the  marketing  
+literature. Authors  need  to  avoid  presenting  vague  or  superﬁcial  self-serving insights as well as exaggerating 
+the actual ﬁndings and implications, if the data results cannot support the intensity. Reviewers look for clear 
+evidence  that  the  ﬁndings  provide  new  or  different  scientiﬁc information about the research problems (or 
+questions) and support for the initial argument for undertaking the investigation, including precise justiﬁcation of 
+how and why the insights contribute to the literature.  When  the  study's  ﬁndings  only  add  empirical  evidence 
+validating (but do not expand) existing literature insights, reviewers expect  a  concise  explanation  of  the  
+empirical  and  theoretical importance  of adding this type of support to scientiﬁc information existing in the 
+literature. Rather than rehashing what the Introduction section reports, authors must present solid discussions on how 
+the ﬁndings  meet  or  fail  the  research  objectives  or  purpose  of  the investigation. Finally, authors should 
+avoid overselling any contribu- tion, if the results cannot accurately support the claim.
+
+5.6. Conclusions–managerial implications
+
+From  a  reviewer's  perspective,  the  focus  is  on  presenting  the speciﬁc implications of the study's empirical 
+ﬁndings and their value to a multitude of individuals in the marketing community. Scientiﬁc research  ﬁndings  can  
+result  in  support  of  either  managerial, theoretical,  methodological  implications  or  some  combination. Authors 
+need to discuss fully the scientiﬁc importance and relevancy of  each  implication.  The  philosophical  position  and  
+mission  of  the journal inﬂuence the extent to which the implications tilt stronger for managers,  academic  
+researchers,  public  policymakers,  or  some combination  of  stakeholders,  including  discussions  relating  to 
+possible  future  research  directions  that  can  spawn  from  the  key ﬁndings.
+Reviewers realize that no empirical research is ﬂawless and expect solid  coverage  of  all  known  limitations  
+inﬂuencing  the  research endeavor. The limitations must be honest and forthcoming. Discus- sions  need  to  identify  
+the  real  impact  of  the  limitations  on  the generalizability of the study's ﬁndings and scientiﬁc contributions to 
+the literature as well as possible calls for future research.
+
+6. References
+
+The reference section of scientiﬁc articles serves several important information  roles  worth  noting.  First,  the  
+accuracy  of  the  listings directly  inﬂuences  reviewers'  judgments  of  the  relevancy  of  the theoretical  
+support  used  in  justifying  the  opening  argument  for
+
+undertaking the scientiﬁc research endeavor and the theoretical (or literature) insights in the article's literature 
+review section. Use care in making  sure  cited  reference  articles  truly  represents  the  intended support. Filling 
+page space with irrelevant reference cites creates a negative perception by reviewers, who know the literature and 
+those cited articles. Second, accurate reference listings serve as important information sources for other scholars 
+holding research interests in the same (or similar) scientiﬁc research topic. Authors must carefully double-check that 
+the listed references match the reference cites in the text of the article. Reviewers will check to make sure authors 
+cite each reference, at least once, somewhere in the body of the article and all reference cites are properly listed in 
+the reference source section, along  with  the  correct  year  designation  of  the  cited  sources. Reviewers  make  
+inferences  of  sloppy  work  when  citations  and references  do  not  corroborate,  typically  resulting  in  a  
+negative impression of the article's journal quality factor. Finally, inaccuracies in reference listings and cites 
+negatively impact the validity and value of the various objective impact metrics (e.g., social science citation index  
+— SSCI,  usefulness  index  — UI,  author's  impact  index  — AII, journal  impact  index  —  JII,  journal  citation  
+report  —  JCR,  etc.). Inaccurate  impact  metrics  can  negatively  inﬂuence  the  worth  of scholars' scientiﬁc 
+contributions to the existing body of knowledge in the  discipline  and  the  quality  impact  (or  scientiﬁc  
+importance)  of journals within the marketing community.
+Some  additional  words  of  caution  concerning  references  in
+scientiﬁc  articles  are  worthy of  comment.  Authors must  be  careful to adhere to the speciﬁc writing style of the 
+targeted journal for listing the  references  in  the  article.  Different  journals  have  different formatting  
+requirements  and  policies.  Many  reviewers  interpret receiving  a  scientiﬁc  manuscript  not  prepared  according  
+to  the journal's writing style guide as an insult to the journal. When using reference sources to support opinions and 
+facts, authors need to take the time to go over the full article. Do not cut corners by just bringing in  reference  
+cites  some  previous  researchers  use  in  their  articles, because  those  cites  might  not  be  appropriate  to  
+the  current manuscript's story. Authors need to remember, many reviewers are experts at identifying the misuse of 
+cites as supportive evidence — by deﬁnition,  reviewers  receive  the  manuscript  to  review  because  of their 
+expertise in the subject matter.
+
+7. Title and abstract
+
+The  last  two  elements  of  a  scientiﬁc  article  are  the  Title  and Abstract.  For  the  manuscript's  title,  
+authors  must  be  creative  but accurate in describing what story the article actually communicates. Authors should 
+avoid having the title go beyond 8 to 10 words. Make sure the key constructs or topical focus is part of the title. 
+Using a colon in the title is not a requirement.
+Marketing journals restrict the length of the abstract to between 100 and 200 words. Authors need to craft the abstract 
+well in order to draw  quick  attention  and  feelings  of  importance,  relevancy  and excitement in the reader's 
+mind. Authors need to concisely describe the importance of the problem under investigation, highlight one or two key 
+ﬁndings/contributions, and offer a catchy implication.
+
+8. SoThe concluding thoughts
+
+The need to publish important scientiﬁc articles in prestige and high-quality  marketing  journals  is  increasing,  
+yet  acceptance  rates ranging between 7  and 18%  suggest  that many marketing scholars (especially  new  ones)  
+struggle  to  understand  and  integrate  the elements it takes to produce high-quality scientiﬁc articles. Numerous 
+published  editorials  and  comments  from  current  and  past  journal editors,  books,  and  special  invited  
+articles  provide  insights  on publishing in prestigious and high-quality journals, but most scientiﬁc research  
+manuscripts  fail  to  make  it  through  the  journal  review
+
+156                                                                                                D.J. Ortinau / 
+Journal of Business Research 64 (2011) 150–156
+
+
+processes.  Using  a  journal  reviewer  perspective,  this  article  con- tributes in creating awareness and 
+understanding of the requirements of  writing  important  scientiﬁc  articles  in  several  signiﬁcant  ways. First,  
+researchers  must  understand  writing  important  scientiﬁc articles for prestigious and high-quality marketing 
+journals entails a variety  of  complex  and  interrelated  journal  quality  image  issues which mediate journal 
+reviewers' judgments of the article's impor- tance and value to the literature and ultimately editors' acceptance/ 
+rejection decisions. Second, awareness and understanding of the key coverage issues relevant to the main sections of 
+important scientiﬁc manuscripts,  from  the  reviewer  perspective,  provide  insight  and knowledge about the 
+expectations and standards authors must meet or  exceed  in  order  to  maximize  the  likelihood  of  an  acceptance 
+decision.  Understanding  that  the  journal  review  processes  are  not perfect and include reviewer subjectivity, 
+authors are responsible for providing the convincing argument and support that lead reviewers to positive evaluative 
+judgments of the importance and relevancy of the research topic and questions driving the research endeavor and the 
+existence of scientiﬁc rigorousness in the methodology, measure- ments and analysis procedures. Authors must also 
+convince reviewers and editors that the empirical ﬁndings make substantial (absolute) and/or relative (incremental) 
+contributions that are meaningful and useful to the literature. Finally, the reference sources at the end of this 
+article provide readers with additional opportunities to gain writing and publishing insights as  well as  providing  
+corroboration (valida- tion) of many of the ideas and insights in the article.
+
+AcknowledgThents
+
+The  author  appreciates  comments  by  Barry  J.  Babin  (Louisiana Tech University), Barbara Lafferty (University of 
+South Florida), and Arch Woodside (Boston College) on earlier drafts of this article.
+
+References
+Armstrong  JS.  Research  on  scientiﬁc  journals:  implications  for  editors  and  authors.
+Journal of Forecasting 1982a;1:83-104 January–March.
+Armstrong JS. Barriers to scientiﬁc contributions: the author's formula. Behavioral and Brain Sciences 1982b;5:197–9 
+June.
+Armstrong JS. Is review by peers as fair as it appears? Interfaces 1982c;12:62–74 October. Armstrong JS. Peer review 
+for journals: evidence of quality, fairness, and innovation. Sci
+Eng Ethics 1997;3:63–84.
+Armstrong JS. Discovery and communication of important marketing ﬁndings: evidence and proposals. J Bus Res 
+2003;56(1):69–84.
+Armstrong JS. Does an academic research paper contain useful knowledge? No (p b.05).
+Aust Mark J 2004;12(2):62–3.
+Armstrong JS, Pagell R. Reaping beneﬁts from management research: lessons from the forecasting principles project. 
+Interfaces 2003;33(6):89-111.
+Armstrong JS, Brodie RJ, Parsons AG. Hypotheses in marketing science: literature and publication audit. Marketing 
+Letters 2001;12(2):178–87.
+Arnould  EJ.  Helpful  tips:  getting  a manuscript  to  publication  standard.  University  of Nebraska Press; 2003.
+Babin BJ, Hair Jr JF, Boles JS. Publishing research in marketing journals using structural equation modeling. J Mark 
+Theory Pract 2008;16(4):279–85.
+Brown JR, Dant RP. On what makes a signiﬁcant contribution to the retailing literature. J Retail 2008;84(2):131–5.
+Campanario JM. The competition for journal space among referees, editors, and other authors and its inﬂuence on 
+journal's impact factors. J Am Soc Inf Sci 1996;47(3):184–92.
+Churchill Jr GA. A paradigm for developing better measures of marketing constructs. J Mark Res 1979;16(1):64–73.
+Dant RP, Brown JR. A journal of retailing retrospective based on ISI web of knowledge. J Retail 2009;85(4):527–31.
+Gerbing DW, Anderson JC. An updated paradigm for scale development incorporating unidimensionality and its assessment. 
+J Market Res 1988;25(2):186–92.
+Hair Jr JF, Bush RP, Ortinau DJ. Marketing research. Digital information environment.
+4th edition. Chicago, IL: McGraw-Hill/Irwin Publisher; 2009.
+Hair  Jr  JF,  Black  WC,  Babin  BJ,  Anderson  RE.  Multivariate  data  analysis.  7th  edition.
+Upper Saddle River, NJ: Pearson-Prentice Hall Publisher; 2010.
+Ingene CA. From the beginning … to beyond the ending: reﬂections on the past, present and future of the Journal of 
+Retailing. J Retail 2009;85(4):510–8.
+Kupfersmind J, Wonderly DM. An authors' guide to publishing better articles in better journals  in  behavioral  
+sciences.  Brandon,  VT:  Clinical  Psychology  Publishing Company; 1994.
+Ladik DM, Stewart DW. The contribution continuum. J Acad Mark Sci 2008;36(2):157–65. Levy M, Grewal D. Publishing 
+perspectives from the editors. J Retail 2007;83(3):247–52.
+Mort GS, McColl-Kennedy JR, Kiel G, Soutar GN. Perceptions of marketing journals by senior academics in Australia and 
+New Zealand. Aust Mark J 2004;12(2):51–61.
+Ortinau DJ. Primer for new authors: on the fundamentals of publishing in marketing journals. J Mark Theory Pract 
+2010;18(1):91-100.
+Pfeffer  J.  A  modest  proposal:  how  we  might  change  the  process  and  product  of managerial research. Acad 
+Manag J 2007;50(6):1334–45.
+Rust RT. From the editor: the state of the journal. J Mark 2008;72(6):1–2.
+Shugan  SM.  Editorial:  deﬁning  interesting  research  problems.  Marketing  Science 2003;22:1-15 Winter.
+Smith DC. The importance and challenges of being interesting. J Acad Mark Sci 2003;31 (2):319–22.
+Soper  B,  Milford  GE,  Rosenthal  GT.  Belief  when  evidence  does  not  support  theory.
+Psychol Mark 1995;12(3):415–22.
+Soutar  GN.  Citation  benchmarks  for  articles  published  by  Australian  marketing academics. Proceedings of the 
+ANZMAC conference; 2007. p. 515–20.
+Soutar GN, Murphy J. Journal quality: Google scholar analysis. Aust Mark J 2009;17:150–3. Stewart DW. Getting 
+published: reﬂections of an old editor. J Mark 2002;66(4):1–6. Stewart DW, Zinkhan GM. Enhancing marketing theory in 
+academic research. J Acad
+Mark Sci 2006;34(4):477–80.
+Summers  JO.  Guidelines  for  conducting  research  and  publishing  in  marketing:  from conceptualization through 
+the review process. J Acad Mark Sci 2001;29(4):405–10.
+Sutton RI, Staw BM. What theory is not. Adm Sci Q 1995;40(3):371–84. Weitz BA. Editorial. J Mark 1992;29(1):1.
+Wittink DR. JMR: 2 P's. J Mark Res 2004;41(1):1–6.
+Woodside AG. Journal and author impact metrics: an editorial. J Bus Res 2009;62(1):1–4.
