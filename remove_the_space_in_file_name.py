@@ -1,5 +1,4 @@
 import os
-import codecs
 
 rows, cols = os.popen('stty size', 'r').read().split()
 rows = int(rows)
