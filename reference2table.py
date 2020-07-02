@@ -1,5 +1,22 @@
+"""
+Generate a csv table from a text list of IEEE style reference.
+
+Input text file should be like:
+    [1]	M. DeMaria, R. T. DeMaria, J. A. Knaff, and D. Molenar, “Tropical Cyclone Lightning and Rapid Intensity Change,” Mon. Wea. Rev., vol. 140, no. 6, pp. 1828–1842, Feb. 2012, doi: 10.1175/MWR-D-11-00236.1.
+    [2]	J. A. Knaff, M. DeMaria, D. A. Molenar, C. R. Sampson, and M. G. Seybold, “An automated, objective, multiple-satellite-platform tropical cyclone surface wind analysis,” Journal of applied meteorology and climatology, vol. 50, no. 10, pp. 2149–2166, 2011.
+    [3]	M. D. Powell and T. A. Reinhold, “Tropical Cyclone Destructive Potential by Integrated Kinetic Energy,” Bull. Amer. Meteor. Soc., vol. 88, no. 4, pp. 513–526, Apr. 2007, doi: 10.1175/BAMS-88-4-513.
+    ......
+
+Output csv file should be like:
+    1\tM. DeMaria, R. T. DeMaria, J. A. Knaff, and D. Molenar, “Tropical Cyclone Lightning and Rapid Intensity Change,” Mon. Wea. Rev., vol. 140, no. 6, pp. 1828–1842, Feb. 2012, doi: 10.1175/MWR-D-11-00236.1.
+    2\tJ. A. Knaff, M. DeMaria, D. A. Molenar, C. R. Sampson, and M. G. Seybold, “An automated, objective, multiple-satellite-platform tropical cyclone surface wind analysis,” Journal of applied meteorology and climatology, vol. 50, no. 10, pp. 2149–2166, 2011.
+    3\tM. D. Powell and T. A. Reinhold, “Tropical Cyclone Destructive Potential by Integrated Kinetic Energy,” Bull. Amer. Meteor. Soc., vol. 88, no. 4, pp. 513–526, Apr. 2007, doi: 10.1175/BAMS-88-4-513.
+    ......
+"""
+
 import csv
 import re
+
 
 def main():
     try:
@@ -30,6 +47,7 @@ def main():
     except Exception as msg:
         breakpoint()
         exit(msg)
+
 
 if __name__ == '__main__':
     main()

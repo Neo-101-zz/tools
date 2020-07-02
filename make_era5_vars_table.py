@@ -1,6 +1,24 @@
+"""
+Generate a text table in for LaTeX from a text list of variables.
+
+Input text file should be like:
+    & 10m u component of neutral wind
+    & 10m u component of wind
+    & 10m v component of neutral wind
+    & 10m v component of wind
+    & 2m dewpoint temperature
+    ......
+
+Output a text file which has columned by user's
+instruction. It will be like this when `cols_num` is 2 and `vars_num` is 57:
+    1	& 10m u component of neutral wind	& 30	& mean wave period based on first moment for wind waves\\
+    2	& 10m u component of wind	& 31	& mean wave period based on second moment for swell\\
+    3	& 10m v component of neutral wind	& 32	& mean wave period based on second moment for wind waves\\
+    ......
+
+"""
 import copy
 import math
-import os
 
 
 def main():
@@ -8,14 +26,10 @@ def main():
         txt_path = input('Path of the text file recording ERA5 variables: ')
         cols_num = int(input('Number of columns: '))
         out_path = input('Path of edited text file: ')
-        if not out_path.endswith('.csv'):
-            print('Out path must ends with ".csv"')
-            exit(1)
 
         with open(txt_path, 'r') as f:
             txt_lines = f.readlines()
 
-        new_txt_lines = []
         rows_num = []
         vars_num = len(txt_lines)
         tmp_cols_num = copy.copy(cols_num)
@@ -35,11 +49,8 @@ def main():
             table_cells.append(row)
 
         vars_num = len(txt_lines)
-        new_line = ''
         # Only refer to column index of variable name
-        col_idx = -1
         for txt_line_idx, line in enumerate(txt_lines):
-            num_of_var = txt_line_idx + 1
             # Check which column does the variable fall into
             rows_num_sum = 0
             for idx, num in enumerate(rows_num):
@@ -67,7 +78,7 @@ def main():
             else:
                 var_num_cell = f'& {txt_line_idx+1}\t'
             table_cells[var_cell_row_idx][
-                var_cell_col_idx - 1] =  var_num_cell
+                var_cell_col_idx - 1] = var_num_cell
 
             if var_cell_col_idx != 2 * cols_num - 1:
                 var_cell = line.replace('\n', '\t')
@@ -75,7 +86,7 @@ def main():
                 var_cell = line.replace('\n', '\\\\') + '\n'
 
             table_cells[var_cell_row_idx][
-                var_cell_col_idx] =  var_cell
+                var_cell_col_idx] = var_cell
 
         table_lines = []
         for row in table_cells:
@@ -86,6 +97,7 @@ def main():
     except Exception as msg:
         breakpoint()
         exit(msg)
+
 
 if __name__ == '__main__':
     main()
