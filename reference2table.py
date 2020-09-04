@@ -20,7 +20,7 @@ import re
 
 def main():
     try:
-        txt_path = input('Path of the text file recording ERA5 variables: ')
+        txt_path = input('Path of the text file recording bibliography: ')
         out_path = input('Path of csv file: ')
         if not out_path.endswith('.csv'):
             print('Out path must ends with ".csv"')
